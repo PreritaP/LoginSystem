@@ -1,8 +1,5 @@
 
-------------------------------Authbridge Research Services----------------------
-
-
--------------------PRERITA PRAJAPATI----22-MAY-2020-----PHP assignment----------
+-------------------PRERITA PRAJAPATI----22-MAY-2020-----------------------------
 
 Steps to run the project.
 1. To connect to the database, add host, username, password and database name in config.php file.
